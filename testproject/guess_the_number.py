@@ -30,5 +30,3 @@ guess_button.click()
 # while True:
 # vegtelen ciklusban kell addig talalgatni amig ki nem talalja  prg a szamot, if feltetellel fole vagy ala menni
 # ujra megadni a ranget a randomban stb.
-
-
