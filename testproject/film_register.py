@@ -45,7 +45,7 @@ test_data = ["Black Widow", "2021", "2020", "https://www.youtube.com/watch?v=Fp9
 
 # filling register form
 WebDriverWait(driver, 10).until(
-                EC.element_to_be_clickable((By.ID, "nomeFilme")))
+    EC.element_to_be_clickable((By.ID, "nomeFilme")))
 
 film_title.send_keys(test_data[0])
 release_year.send_keys(test_data[1])
