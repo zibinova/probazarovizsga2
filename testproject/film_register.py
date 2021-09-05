@@ -63,3 +63,4 @@ movie_links = driver.find_elements_by_xpath("/html/body/div[2]/div[3]/a")
 assert len(movie_links) == 25
 
 driver.close()
+# max 16 pont

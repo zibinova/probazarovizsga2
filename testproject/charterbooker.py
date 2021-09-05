@@ -47,4 +47,8 @@ confirmation = driver.find_element_by_xpath("//*[@id='booking-form']/h2")
 confirmation_text = "Your message was sent successfully. Thanks! We'll be in touch as soon as we can, which is usually like lightning ' \
                                               '(Unless we're sailing or eating tacos!)."
 
-# assert confirmation.text == confirmation_text
+assert driver.find_element_by_xpath("//*[@id='booking-form']/h2").text() == confirmation_text
+
+
+
+# 11 pont / az assert-hez alkalmazott szövegben van egy sortörés; nincs email validációd

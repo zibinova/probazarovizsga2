@@ -30,3 +30,7 @@ guess_button.click()
 # while True:
 # vegtelen ciklusban kell addig talalgatni amig ki nem talalja  prg a szamot, if feltetellel fole vagy ala menni
 # ujra megadni a ranget a randomban stb.
+
+
+# 9 pont / a találgatások pontos számára nincs ellenőrzésed, hogy megegyezik-e az iterálások számával;
+# a -19 és 255 számokat nem tesztelted, de leírtad hogyan állnál neki

@@ -9,3 +9,6 @@ URL = "https://witty-hill-0acfceb03.azurestaticapps.net/mutant_teams.html"
 driver.get(URL)
 
 # driver.close()
+
+
+# 4 pont / nem volt feladat kidolgozás

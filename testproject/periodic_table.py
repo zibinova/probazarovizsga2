@@ -18,3 +18,4 @@ with open("data.txt", encoding='utf-8') as csv_file:
     next(reader)
     # for row in reader:
 
+# 8 pont / beolvastál, de nem volt más feladat kidolgozás rész

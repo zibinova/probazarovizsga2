@@ -1,0 +1,16 @@
+angel,original,force,factor,hellfire
+beast,original,factor
+cyclops,original,force,factor
+emma-frost,hellfire
+iceman,original,factor
+jean-grey,original,factor
+magneto,hellfire
+nightcrawler,force
+professor-x,original
+psylocke,force,hellfire
+quicksilver,factor
+rictor,force,factor
+storm,force,hellfire
+sunspot,force,hellfire
+tithe,hellfire
+wolverine,force
